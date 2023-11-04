@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+
+.box {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(60, 33, 169);
+    margin-bottom: 20px;
+}
